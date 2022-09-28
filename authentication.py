@@ -1,2 +1,2 @@
-def register(uname,lname,password):
+def register(uname,lname,password,email):
      functionality for register
